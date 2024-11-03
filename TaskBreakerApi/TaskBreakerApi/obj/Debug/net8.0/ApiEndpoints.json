@@ -1,0 +1,269 @@
+[
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.AuthController",
+    "Method": "Delete",
+    "RelativePath": "api/Auth/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.AuthController",
+    "Method": "CheckAuth",
+    "RelativePath": "api/Auth/check-auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "TaskBreakerApi.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.AuthController",
+    "Method": "Registration",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "TaskBreakerApi.Models.UserRegistration",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.AuthController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Auth/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "TaskBreakerApi.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "GetObjective",
+    "RelativePath": "api/Objective/objective/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TaskBreakerApi.Models.Objective",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "createElement",
+    "RelativePath": "api/Objective/objective/{id}/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "element",
+        "Type": "TaskBreakerApi.Models.OElement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "DeleteObjective",
+    "RelativePath": "api/Objective/objective/{id}/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "GetDetails",
+    "RelativePath": "api/Objective/objective/{id}/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TaskBreakerApi.Models.ObjectiveWithElements",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "UpdateObjective",
+    "RelativePath": "api/Objective/objective/{id}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objective",
+        "Type": "TaskBreakerApi.Models.Objective",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "DeleteElement",
+    "RelativePath": "api/Objective/objective/{parentid}/{id}/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parentid",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "UpdateElement",
+    "RelativePath": "api/Objective/objective/{parentid}/{id}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "element",
+        "Type": "TaskBreakerApi.Models.OElement",
+        "IsRequired": true
+      },
+      {
+        "Name": "parentid",
+        "Type": "",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "GetAllObjectives",
+    "RelativePath": "api/Objective/objective/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TaskBreakerApi.Models.Objective, TaskBreakerApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskBreakerApi.Controllers.ObjectiveController",
+    "Method": "CreateObjective",
+    "RelativePath": "api/Objective/objective/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objective",
+        "Type": "TaskBreakerApi.Models.Objective",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

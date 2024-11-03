@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FJpTC4Qj/mQvrEBTkuL31/tng6pbA6IbLX5vs6HqGvE=",
+  "Source": "TaskBreakerApi",
+  "BasePath": "_content/TaskBreakerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

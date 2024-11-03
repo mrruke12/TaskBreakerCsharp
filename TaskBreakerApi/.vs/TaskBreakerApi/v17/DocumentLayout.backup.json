@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\controllers\\objectivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\controllers\\objectivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\repositories\\objectiverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\repositories\\objectiverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\models\\oelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\models\\oelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\models\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\models\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\models\\objectivewithelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\models\\objectivewithelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|c:\\users\\user\\desktop\\c#\\taskbreakerapi\\taskbreakerapi\\taskbreakerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65BF87E1-9FB9-4580-A5D3-17DB112E0210}|TaskBreakerApi\\TaskBreakerApi.csproj|solutionrelative:taskbreakerapi\\taskbreakerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectiveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Repositories\\ObjectiveRepository.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Repositories\\ObjectiveRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Repositories\\ObjectiveRepository.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Repositories\\ObjectiveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:23:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectiveController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Controllers\\ObjectiveController.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Controllers\\ObjectiveController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Controllers\\ObjectiveController.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Controllers\\ObjectiveController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:57:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:22:37.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Objective.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\Objective.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Models\\Objective.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\Objective.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Models\\Objective.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:56:07.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\User.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:47:31.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:02:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OElement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\OElement.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Models\\OElement.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\OElement.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Models\\OElement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:57:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Program.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:53:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjectiveWithElements.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\ObjectiveWithElements.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Models\\ObjectiveWithElements.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Models\\ObjectiveWithElements.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Models\\ObjectiveWithElements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:16:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskBreakerApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:49:53.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\appsettings.json",
+              "RelativeToolTip": "TaskBreakerApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T08:52:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskBreakerApi",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\TaskBreakerApi.csproj",
+              "RelativeDocumentMoniker": "TaskBreakerApi\\TaskBreakerApi.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\TaskBreakerApi\\TaskBreakerApi\\TaskBreakerApi.csproj",
+              "RelativeToolTip": "TaskBreakerApi\\TaskBreakerApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T08:50:04.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
